@@ -1,0 +1,4 @@
+﻿git init
+初始化
+repository
+仓库
